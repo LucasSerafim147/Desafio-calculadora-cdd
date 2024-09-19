@@ -9,19 +9,19 @@ while True:
     if op == 1:
         resultado = n1 + n2
         print(resultado)
-        break
+        op == 5
     elif op == 2 :
         resultado = n1 - n2
         print(resultado)
-        break
+        op == 5
     elif op == 3 :
         resultado = n1 / n2
         print(resultado)
-        break
+        op == 5
     elif op == 4:
-        resultado = n1 + n2
+        resultado = n1 * n2
         print(resultado)
-        break
+        op == 5
     elif op == 5:
         
         continue
